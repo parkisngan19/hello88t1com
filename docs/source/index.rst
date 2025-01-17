@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hello88 - Trang Chủ Hello88.com - Link Vào Hello 88 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`HELLO88 <https://hello88t1.com/>`_ là trang web cá cược trực tuyến gồm cá độ thể thao, game bài, poker, casino. Nhà cái được thành lập với mong muốn mang lại một sân chơi giải trí công bằng và văn minh. hello88t1.com đang trên đường trở thành cổng game uy tín hàng đầu và mang đến dịch vụ chuyên nghiệp bậc nhất cho cược thủ.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 166a Đường số 7, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0899865472. 
 
-Contents
---------
+Email: info@hello88t1.com. 
 
-.. toctree::
+Website: https://hello88t1.com/ 
 
-   usage
-   api
+#hello88 #trangchuhello88 #dangkyhello88 #dangnhaphello88 #linkhello88
